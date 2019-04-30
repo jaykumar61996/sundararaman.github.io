@@ -11,7 +11,7 @@ Surround AI is the python framework which is designed for flexible usage in Arti
 using glue codes for their research.
 *  Easy interaction between several machine learning pipelines.
 * Provides end-to-end solution instead of providing solution for the models.
-##  Current
+# Current
 Using cloud API for training models for image recognition.
 Developing a pipeline for the surround module using machine learning algorithms.
 # Eagle Eye
